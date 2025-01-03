@@ -33,8 +33,8 @@ The Vrinda Store wants to create an annual sales report for 2022. so that, the o
 
 
 ## Project Insight
--Women are more likely to buy compated to Men (~64%)
--The states of Maharashtra, Karnataka and Uttra Pradesh are the top 3 states (~35%) 
+-Women are more likely to buy compated to Men (~64%).
+-The states of Maharashtra, Karnataka and Uttra Pradesh are the top 3 states (~35%).
 -The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
 -The maximum number of product customer orders from Amazon, Flipkart and myntra channels.
 -Morethan 90% of the products delivered.
