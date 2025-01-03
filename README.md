@@ -22,10 +22,10 @@ The Vrinda Store wants to create an annual sales report for 2022. so that, the o
 
 
 ## Process
--Verift data for any missing values and anomalies and sort out the same.
--Made sure data is consistent and clean with respect to data type, data format and vlues used.
--Created pivot tables according tot he questions asked.
--Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+- Verift data for any missing values and anomalies and sort out the same.
+- Made sure data is consistent and clean with respect to data type, data format and vlues used.
+- Created pivot tables according tot he questions asked.
+- Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 
 ## Dashboard
@@ -33,11 +33,11 @@ The Vrinda Store wants to create an annual sales report for 2022. so that, the o
 
 
 ## Project Insight
--Women are more likely to buy compated to Men (~64%).
--The states of Maharashtra, Karnataka and Uttra Pradesh are the top 3 states (~35%).
--The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
--The maximum number of product customer orders from Amazon, Flipkart and myntra channels.
--Morethan 90% of the products delivered.
+- Women are more likely to buy compated to Men (~64%).
+- The states of Maharashtra, Karnataka and Uttra Pradesh are the top 3 states (~35%).
+- The adult age group (30-49 yrs) is max contributing (~50%) and buys the most products.
+- The maximum number of product customer orders from Amazon, Flipkart and myntra channels.
+- Morethan 90% of the products delivered.
 
  
 ## Final Conclusion to improve Vrinda store sales:
